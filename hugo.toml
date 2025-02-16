@@ -1,0 +1,4 @@
+baseURL = 'https://Blabstract.com/'
+languageCode = 'en-us'
+title = 'Blabstract'
+theme = 'terminal'

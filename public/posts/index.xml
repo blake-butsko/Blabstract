@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blabstract</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Blabstract</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Feb 2025 00:14:15 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 16 Feb 2025 00:14:15 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/books/current-goals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/books/current-goals/</guid>
+      <description>&lt;p&gt;[[Current goals#waypoints|Waypoints]]
+[[Projects - Focus on what I want to learn]]
+[[Bucket List + Cool Things To Do]]&lt;/p&gt;
+&lt;p&gt;Programming/Entrepurship/Music&lt;/p&gt;
+&lt;p&gt;30 weeks between February 3rd and September 1st.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At base hours and salary:  $38,400&lt;/li&gt;
+&lt;li&gt;If you manage to make 720 more a week: $60,000
+&lt;a href=&#34;https://www.tiktok.com/@user011830725/video/7428194210433551646?lang=en&#34;&gt;If you can&amp;rsquo;t go to bed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;over-arching&#34;&gt;Over arching&lt;/h3&gt;
+&lt;h4 id=&#34;yearly&#34;&gt;Yearly&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Get hip working&lt;/li&gt;
+&lt;li&gt;Live the most fun life and get the most unique experiences you can - the post interview/job list, being a college professor, bucket list, build stuff up and automating things for yourself, being active in all that you do&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;monthly&#34;&gt;Monthly&lt;/h4&gt;
+&lt;h4 id=&#34;weekly&#34;&gt;Weekly&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;skin care and sleep for this week, No more waking up tired it’s not allowed&lt;/li&gt;
+&lt;li&gt;See if you can follow google calendar schedule - let’s use our system to stay organized and do everything we want&lt;/li&gt;
+&lt;li&gt;Finish report automation this week&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Project:
+Automation (learn about how a PLC is used in an industrial capacity then make your first factory/automation using arduinos) - there&amp;rsquo;s other porjects you wanna do but maybe this one you wanna do the most&lt;/p&gt;</description>
+      <content>&lt;p&gt;[[Current goals#waypoints|Waypoints]]
+[[Projects - Focus on what I want to learn]]
+[[Bucket List + Cool Things To Do]]&lt;/p&gt;
+&lt;p&gt;Programming/Entrepurship/Music&lt;/p&gt;
+&lt;p&gt;30 weeks between February 3rd and September 1st.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At base hours and salary:  $38,400&lt;/li&gt;
+&lt;li&gt;If you manage to make 720 more a week: $60,000
+&lt;a href=&#34;https://www.tiktok.com/@user011830725/video/7428194210433551646?lang=en&#34;&gt;If you can&amp;rsquo;t go to bed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;over-arching&#34;&gt;Over arching&lt;/h3&gt;
+&lt;h4 id=&#34;yearly&#34;&gt;Yearly&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Get hip working&lt;/li&gt;
+&lt;li&gt;Live the most fun life and get the most unique experiences you can - the post interview/job list, being a college professor, bucket list, build stuff up and automating things for yourself, being active in all that you do&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;monthly&#34;&gt;Monthly&lt;/h4&gt;
+&lt;h4 id=&#34;weekly&#34;&gt;Weekly&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;skin care and sleep for this week, No more waking up tired it’s not allowed&lt;/li&gt;
+&lt;li&gt;See if you can follow google calendar schedule - let’s use our system to stay organized and do everything we want&lt;/li&gt;
+&lt;li&gt;Finish report automation this week&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Project:
+Automation (learn about how a PLC is used in an industrial capacity then make your first factory/automation using arduinos) - there&amp;rsquo;s other porjects you wanna do but maybe this one you wanna do the most&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Think about all the cool electronic ferris wehels and sweet things people make, I wanna do that, and I can do that, just like a program once I make it, it&amp;rsquo;s done, I just gotta do maintence on it
+Ableton:
+70&amp;rsquo;s song&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;using tags&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fun and being you full out- professional but you at work&lt;/li&gt;
+&lt;li&gt;^thus. Mind week&lt;/li&gt;
+&lt;li&gt;Start doing piano sheet music for 20 minutes a day - you’ll get it do piano adventures series - I bet you’ll be able to play something sweet in a month - especially if you study the individual songs - see if you have room for this&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Current project you&amp;rsquo;re working on (focus note) + Ableton (Ableton) are written in their respective places&lt;/p&gt;
+&lt;h3 id=&#34;categorical&#34;&gt;Categorical&lt;/h3&gt;
+&lt;h5 id=&#34;music&#34;&gt;Music&lt;/h5&gt;
+&lt;p&gt;[[Extracurricular/Health&amp;amp;Fitness/TOC|Health &amp;amp; Fitness]]&lt;/p&gt;
+&lt;h5 id=&#34;programming&#34;&gt;Programming&lt;/h5&gt;
+&lt;h3 id=&#34;waypoints&#34;&gt;Waypoints&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Directional thoughts and feelings that you can digest to adjust and refine goals&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Ex. I felt sad leaving work today
+Current goals: Conquer procrastination, Be present (not escaping + also just present in the moment), Work on doing, Do all you want to (opportunity finding/time management)
+Secondary: Constant opportunity keep your ear out for better jobs/events/everything this is the best way to live your life - with knowledge and connections&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the unspoken: have a job enough to support her and you, your hips work&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stop being late&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3 hrs a day after work post working out to do: eventpin, money making, fun stuff, more Rockwell, etc. (make schedule for tis)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;you won’t find a replacement to Deniz but you c&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Need to keep having fun, make the actual work fun, make everything fun, you can do it (automation power) use your skills&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Keep doing a little bit more personality at work, and sitting/meeting people eventually you’ll make friends and friends and friends known everyone in the building and text everybody and meet for lunch - I’m honestly just cautious now because I wanna keep my job but I’ll be awesome soon with that then I’ll have more flexibility&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sunday dinners with grandpa/grandma help their mood, it won’t hurt anything I promise you&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sunday dinners with grandpa/grandma help their moo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Destroy what is keeping you apartment - the bad mood perception and pain that revealed/came from your hip, the laziness from procrastination and not doing&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wear apple watch each day (does this fit here and if not where would I put the daily improvement thoughts)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;schedule is loose at this point and will change it as we get keep going&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Just have to make a system where you keep growing at the same rate like when you were young&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Keep wallet with you&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Less porn/scantly clad ladies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I need some theatre of war to preform in - life can be your stage tho - can Cleveland be my Chicago&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Could come up New and better manufacturing solution and bring more manufacturing back to the US - It helped us do the tariff thing which is stupid this could be a good opportunity for me&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How can I help people&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fairbanks+Heather clan activities - can do my downtown dominance and factory and show them&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Video essays when you get inspiration - more cowboy than you, white flight, etc. - can also use them as inspo for shows/music/tv shows maybe just think of which medium to do for least to most explicit Art to Essay - need an inspiration note&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;too or when you think about it like the more cowboy than you or the white flight or just the things that are interesting to you like the more cowboys than me thing how just thinking about stuff like that I had ideas about it but I&amp;rsquo;m trying to think yeah I think that would be cool just video essays I don&amp;rsquo;t know when I&amp;rsquo;d fit it into being able to do it but it would just be something that would be interesting&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I need structure otherwise I&amp;rsquo;ll just keep running my wheel like with guitar or piano structure is what makes me continuously improve - lifting as well&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;see if you could do research in Cleveland with all of those colleges around there (Wolstein Research Building) - could also do that for my summer EE clases&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Using structure to continuously have extracurricular events like David and Jack do - talking to people is really motivating for you and charity work is as well and all the things and why don’t you do them let’s use the structure to ensure you do, just like when thinking about motivation by doing - it may be Cleveland but I’ll 100% it&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Get back to making stuff&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manufacturing time I wanna do that the most&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MIT Maker Portfolio - show them to Logan too (these always motivate me)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Feeling sad and lonely I went out to the bar with Jack and David and just feel lonely afterwards like I how used to feel on my walk back from the parties when I was alone - it could get better if I adjust my expectations but also sometimes I just don’t like it if we don’t have fun like dancing and stuff&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It&amp;rsquo;s electronic Music season&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I will build from here (eventpin then working on projects/find opportunities after work, building the system and ensuring I get everything I want) - getting everything done I need to (which are the things I want to) - do I keep applying to places to get a better job that I want&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gymnastics on Mondays? Also think about you want the most, time is finite unfortunately- that’s not saying you can’t do multiple things but just schedule them&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Work: Automate yourself out of a job at work and move to a different division/job
+Free time: learn/think of ideas for work, money-making/ revenue streams, EE degree.
+Fun/opportunities built in each week (30mins to look for cool stuff to do 3-5 hours a week doing fun stuff (friend time built into those) to keep you motivated and keep you going) non-escapism entertainment that you really wanna do&lt;/p&gt;
+&lt;h3 id=&#34;rewards&#34;&gt;Rewards&lt;/h3&gt;
+&lt;p&gt;Get yourself a nice leather Apple watch band for completing your first day of work&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Emotional goals - be a better person, etc. - &amp;gt; this should have it&amp;rsquo;s own section&lt;/p&gt;
+&lt;p&gt;Current goals: Conquer procrastination, Be present (not escaping + also just present in the moment), Work on doing, Do all you want to (opportunity finding/time management)
+Secondary: Constant opportunity keep your ear out for better jobs/events/everything this is the best way to live your life - with knowledge and connections&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the unspoken: have a job enough to support her and you, your hips work&lt;/li&gt;
+&lt;li&gt;Stop being late&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Overarching goals&lt;/strong&gt; vs. bucket list - here are just a few thing rq
+Research paper
+installation at an art museum
+Play in a band
+Go on tour maybe or just have a mildly famous song (like &amp;gt; 1,000 listeners)
+Sky diving
+Get EE degree form shenzen and maybe work there for a bit??
+See the math - keep learning math and expanding your mind&lt;/p&gt;
+&lt;p&gt;Mood board
+&lt;a href=&#34;https://www.instagram.com/reel/C_kUfGDtvYl/?igsh=MTFzenlkY3N2d21reQ==&#34;&gt;1&lt;/a&gt;
+Remember the happiness and peace of decorating and having your own apartment. How cozy it was, how you took the time and energy and were able to make it a space you liked a lot
+Think about meal prep, having all of your meals right in front of you, how you were able to automate something that would have taken an hour each night or would&amp;rsquo;ve had a much worse result
+Remember the freedom and everything of running up and down the hill with Deniz&lt;/p&gt;
+&lt;p&gt;2 main things: no more procrastination (those thoughts I had leaving Toledo where if I could just beat procrastination these four years would be time well spent), be more present (there&amp;rsquo;s no point in escaping when every thing that will actually make you happy is around you/is outside of your phone or youtube)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;those were my two biggest problems from college so I will destroy those and becoem even better
+My next thing to work on is doing, I have some many ideas/things I wanna do, each of those ideas deserve to see the light of day whether it&amp;rsquo;s passing them off for people to make or doing it yourself - you wanna expand your ability to accomplish stuff (just like how much of a giant leg up owning a restaurant gives you where you don&amp;rsquo;t even have to do anything for it once you set it up - that feeling, get it for yourself) I feel like that&amp;rsquo;s my factory/automation motivation is to become more and more big brained and be able to become more overarching -&amp;gt; more overall but also upping work capacity, more day per day
+I can I literally can I can I literally can: excell in any field I choose if I give it my all (owning a factory, resturant, computer science, electrical engineering -&amp;gt; I&amp;rsquo;ll come up with ideas to explode in any of those)
+I fucking can I can&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Current goals - be able to run 3 half marathons in a week
+Gymnastics+strength - freak training&lt;/p&gt;
+&lt;p&gt;Do research/something fun&lt;/p&gt;
+&lt;p&gt;Just keep increasing the amount of energy you can output in a day
+And do it more and more efficiently
+Not rushing calm efficiency
+Keep coding and see about freelance work you can do abs so set waking at 8 everyday&lt;/p&gt;
+&lt;p&gt;Do the thing you want to do most at the moment - also put yourself in a position where opportunities come to you (more people circulating around you/ coming to you with info)
+I feel like a book keeper after the end of the earth rn&lt;/p&gt;
+&lt;p&gt;Firebase project to make you feel right ehh
+Deniz website - maybe keep doing this
+Portfolio website
+Web dev template - explore google templates + offerings to try to sell to other busines, and look into Building websites with AI so you could just do the design
+Keep doing the daily journals
+get workflow for writing songs
+Surround yourself with cool. Renaissance Man&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;black and red ableton poster&lt;/li&gt;
+&lt;li&gt;Gardening&lt;/li&gt;
+&lt;li&gt;Surrounding yourself with yourself - making your system (no boilerplate) + and having it expand what you can do
+Fusion 360
+I wish there was someone that checked my location that I liked&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Music&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Production&lt;/li&gt;
+&lt;li&gt;Guitar skills&lt;/li&gt;
+&lt;li&gt;Piano skills
+Fitness&lt;/li&gt;
+&lt;li&gt;Powerlifting&lt;/li&gt;
+&lt;li&gt;Gymnastics&lt;/li&gt;
+&lt;li&gt;Cardio (have this integrated with the other two unless you&amp;rsquo;re training for something)
+constantly learning (continuously having some project you&amp;rsquo;re working on)
+Entreprenuership/starting businesses and making money
+Research/finding solutions
+money
+One skill that I can use as my sword for everything else (programming, communication/leadership, creativity)
+Stories/script writing/producing works and posting them - ties into the constant project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Wake up
+Breakfast 0:20
+Powerlift 1:00
+work 8
+
+Gymnastics 0:30
+Dinner?
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;have meals/waters prepped, daily tasks automated (regain your time), have your schedule always organized, ideas written down in correct place and used in schedule, 7-8 hours sleep,
+Focus on what you really want to do but don&amp;rsquo;t let it clash with what&amp;rsquo;s really important - have this scheduled in project time
+Do what you really wanna do
+Work is your main income but when it&amp;rsquo;s not a 9-5 job it can be subdivided into projects&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Life&lt;/strong&gt;
+[[Extracurricular/Health&amp;amp;Fitness/Schedule|Schedule]]
+Get work that makes you money
+Get work that you like doing/makes a difference (could be a job/company you start/whatever)&lt;/p&gt;
+&lt;p&gt;Have time for a project every night, think how much you could get done if you just put an hour towards a project a day&lt;/p&gt;
+&lt;p&gt;Increase work output as much as possible
+Get a job/be making money asap
+Have a job in 2 weeks (remote) or start web dev (do it on the side while you&amp;rsquo;re working)
+work that while I&amp;rsquo;m in medina/Toledo and help Deniz with the ice cream shop
+Continuing to programming/do side project/ making songs once a week - following ten year plan
+Focusing on the &amp;ldquo;start a business in 48hr&amp;rdquo; model&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Doing it with Zack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Become a Mad Scientist - focus just like everyday&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;build research connections for this (UT, BG, UofM)
+Really just have a group of friends that like what I like that is maybe rotated based on hobby,  since each person wants to do their own thing
+Decorate room or house nice like I did in tucker hall
+Play drums with Deniz in the mornings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Fitness&lt;/strong&gt;
+Become invincible
+Squatober&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Get back to previous squat numbers and power, the golden years will be obtained again and fall in pale to your new coming glory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⭐️Keep doing PT/mobility, abs, and Gymnastics everyday to get joints impervious + front handspring bridge wrestling warmup
+Don&amp;rsquo;t be afraid of your belt&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Find place for RDLs/Weighted good mornings to build low back&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/reel/C9aJIg7uqus/?igsh=MW1laGs3ajBtdGE0&#34;&gt;https://www.instagram.com/reel/C9aJIg7uqus/?igsh=MW1laGs3ajBtdGE0&lt;/a&gt;
+⭐️No more long distance running for cardio&lt;/li&gt;
+&lt;li&gt;sprinting, swimming, everything else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3-4 weeks of ==Crossfit== fun time (==focus on getting legs, cardio, and Olympic lifts== rolling and strong)
+Powerlifting when I get to UT (either under an online coach or a program of some sort)
+Powerlift at Arnold&amp;rsquo;s classic (march?)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Skills are worth learning but like cardio/olympic lift strength might be hard to keep up with&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;06/25
+Post hip:
+PT
+Olympic lifts during back day when my hip
+Zercher deadlift&lt;/p&gt;
+&lt;p&gt;Get second opinion&lt;/p&gt;
+&lt;p&gt;Gymnastics for an hour a day instead of marathon training (can still run) + during pomodoro breaks&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Muscle ups, Planche, L-sit, handstand (1 arm)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;9/25
+Focus on PT stuff that you feel and actually works (like the shoulder stuff)
+For now, body weight squats, 1/2 bodyweight squats 1/2 squat jumps, squat jumps (10 minute calisthenics video), then smith machine with less depth, then smith machine with full depth still no weight or at max ten pounds each side, then either another round of that max 20 pounds each side or bare barbell, if you did smith machine last time then smith machine max 45 + barbell + 10 or base if you didn&amp;rsquo;t, keep doing up in weight as long as you can do 16 reps with it - that&amp;rsquo;s your limiting factor while still getting a leg workout&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Can also do leg press too but the goal is to get that mobility/agility built back up&lt;/li&gt;
+&lt;li&gt;So from that maybe BSS for stability (even though you don&amp;rsquo;t feel them and they&amp;rsquo;re dumb)
+treadmill each day maybe
+Also squat/quad focused day + deadlift/RDL ham glute day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Plus normal 3 day workout (PPL)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;
+Make a shit ton of fun having music
+Play like Blue Giant, by ear and by having fun with people
+Play Open mic with acoustic guitar and maybe a little production
+Play in a band/production(little marching, orchestra, church choir or band) with people
+Learn sheet music and play in a cafe
+On the spot beat making - but also just the general idea of getting songs done in an hour - and from that writing and producing as many ideas as possible&lt;/p&gt;
+&lt;p&gt;Learn three jazz standards for ear/comping training - Learn Jazz/different piano styles then produce that
+These are ordered by how much I wanna do them&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=C2mRPIl6YKA&#34;&gt;Piano version of that John 5 one it&amp;rsquo;s multiple genres and they just have so much fun playing music&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Projects&lt;/strong&gt;
+Wood working with friends like I did with Josh&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/films/motivations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/films/motivations/</guid>
+      <description>&lt;p&gt;Gooseworx
+Shady Cicada
+Opal by Jack Stauber
+Piano Reader
+Louis Cole&lt;/p&gt;
+&lt;p&gt;Colin Furze - building
+Sam Pilgrim - mtn bike
+Matt Larose - parkour&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Showing how colorful and fun and that I can do anything with life&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I wanna do something with strength - framing, making holiday things, making products, music, everything&lt;/p&gt;
+&lt;p&gt;Golden Age Bodybuilding and even more so the continuing on&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t want to nor have to make the same things these people make - mine will be mine, I&amp;rsquo;ll never have to worry about that&lt;/p&gt;</description>
+      <content>&lt;p&gt;Gooseworx
+Shady Cicada
+Opal by Jack Stauber
+Piano Reader
+Louis Cole&lt;/p&gt;
+&lt;p&gt;Colin Furze - building
+Sam Pilgrim - mtn bike
+Matt Larose - parkour&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Showing how colorful and fun and that I can do anything with life&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I wanna do something with strength - framing, making holiday things, making products, music, everything&lt;/p&gt;
+&lt;p&gt;Golden Age Bodybuilding and even more so the continuing on&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t want to nor have to make the same things these people make - mine will be mine, I&amp;rsquo;ll never have to worry about that&lt;/p&gt;
+&lt;p&gt;Big sound scapes and the multiple instruments thing&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
